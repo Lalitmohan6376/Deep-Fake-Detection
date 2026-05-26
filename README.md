@@ -11,7 +11,9 @@ Data preprocessing and feature extraction
 Model training and evaluation
 
 Scalable and easy-to-use pipeline
+
 Supports structured dataset input (no image dependency required)
+
 🧠 Technologies Used
 Python
 NumPy
